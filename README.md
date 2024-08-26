@@ -19,10 +19,10 @@ Images to the left are of the pieces and to the right are of the corresponding l
 Using the images and respective labels YOLOV8 model was fine tuned. For fine tuning the labels were used to create appropriate text files. 
 Following are the inference results on two seperate test images. It can be observed that the predicted masks closely encode the parallel regions in the image. This can be use to further carry out measurements. 
 
-<img src="https://github.com/user-attachments/assets/368d277e-4d1f-44d0-b5fd-a5d45845f4d4" title="Part Image 191" width="200" height="150"/>
+<img src="https://github.com/user-attachments/assets/368d277e-4d1f-44d0-b5fd-a5d45845f4d4" title="Part Image 191" width="400" height="300"/>
 
 
-<img src="https://github.com/user-attachments/assets/24c9668a-056f-4946-99c1-de6524a698d9" alt="part_image_194" title="Part Image 194" width="200" height="150"/>
+<img src="https://github.com/user-attachments/assets/24c9668a-056f-4946-99c1-de6524a698d9" alt="part_image_194" title="Part Image 194" width="400" height="300"/>
 
 Please note that these results were picked up directly as they were returned by the YOLOV8 API.
 
