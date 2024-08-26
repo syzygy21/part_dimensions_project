@@ -8,4 +8,4 @@ The dataset development for the project consisted of using contour extraction al
 and its specific label was carried out. 
 
 
-<img src="https://github.com/user-attachments/assets/c8f96ef9-d476-41d1-b54b-ebcd739d3cf6" alt="shuffled_image_1" title="Piece Image" width="200" height="100"/> <img src="https://github.com/user-attachments/assets/76748c25-7702-47af-9d81-450a5a6f8f0c" alt="shuffled_label_1" width="200" height="150"/>
+<img src="https://github.com/user-attachments/assets/c8f96ef9-d476-41d1-b54b-ebcd739d3cf6" alt="shuffled_image_1" title="Piece Image" width="200" height="150"/>     <img src="https://github.com/user-attachments/assets/76748c25-7702-47af-9d81-450a5a6f8f0c" alt="shuffled_label_1" width="200" height="150"/>
