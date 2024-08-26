@@ -31,7 +31,7 @@ Please note that these results were picked up directly as they were returned by 
 The same data was used for training the SegFormer model proposed in the paper titled "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers"[https://arxiv.org/abs/2105.15203]. 
 Following were the inference results on one of the pieces.
 
-<img width="200" height="150" alt="segformer_image" src="https://github.com/user-attachments/assets/7c4f8d59-92af-4858-a5c9-feaf033d126d">    <img width="200" height = "150" alt="segformer_inference" src="https://github.com/user-attachments/assets/447ecd8b-210e-4f13-b118-8779f987daec">
+<img width="400" height="300" alt="segformer_image" src="https://github.com/user-attachments/assets/7c4f8d59-92af-4858-a5c9-feaf033d126d">    <img width="200" height = "150" alt="segformer_inference" src="https://github.com/user-attachments/assets/447ecd8b-210e-4f13-b118-8779f987daec">
 
 The results are not as impressive as compared to YOLOV8
 
