@@ -1,6 +1,6 @@
 # part_dimensions_project
 This is repository documents the progress and the code for the reserach project titled 'Automated Measurement of Additive Manufactured Parts through Computer Vision and Deep Learning'. This project is being done under the 
-MIRAGE Lab[https://mirage.umd.edu/?utm_source=umd&utm_medium=organic&utm_campaign=network] at UMD lead by PRof. Davis J. Mcgregor[https://www.davismcgregor.com/]. The project leverages semantic segmentation models to seperate 
+[MIRAGE Lab](https://mirage.umd.edu/?utm_source=umd&utm_medium=organic&utm_campaign=network) at UMD lead by [PRof. Davis J. Mcgregor](https://www.davismcgregor.com/). The project leverages semantic segmentation models to seperate 
 out regions of interest from the images of additively manufactured parts and further uses algorithms to carry out measurements
 
 # Dataset Development
