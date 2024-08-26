@@ -33,9 +33,20 @@ Following were the inference results on one of the pieces.
 
 <img width="200" height="150" alt="segformer_image" src="https://github.com/user-attachments/assets/7c4f8d59-92af-4858-a5c9-feaf033d126d">    <img width="200" height = "150" alt="segformer_inference" src="https://github.com/user-attachments/assets/447ecd8b-210e-4f13-b118-8779f987daec">
 
+The results are not as impressive as compared to YOLOV8
 
+# Measurement Calculation
+The notebooks uploaded also contain code that carries out measurement through the predicted masks given by the YOLOV8 model. The measurement calculation happens through the predicted masks. Each mask is projected on a 
+different black background and forms a different image. Each image is then rotated appropriately and the white pixels are counted in both x and y
+directions. The white pixels are then averaged out and later the number pixels can be converted to mm.
 
+Consider the following image that has different coloured lines on the width and length of each predicted mask. The lines are there to create ease of visualization as each line is associated with a different unique measurement.
 
+<img height ="150" width="200" alt="segformer_result" src="https://github.com/user-attachments/assets/dc45c89f-8ebc-4226-8c9f-2a8f6695612c">
+
+# Future Works
+One research direction that has to be looked into is generating synthetic data to come up with a larger dataset to train semantic segmentation models
+This is one step that has to be taken into a direction to generate generalizable models for carrying out measurements. Also newer semantic segmentation techniques should be evolved for for this purpose. 
 
 
 
