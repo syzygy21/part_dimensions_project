@@ -42,7 +42,7 @@ directions. The white pixels are then averaged out and later the number pixels c
 
 Consider the following image that has different coloured lines on the width and length of each predicted mask. The lines are there to create ease of visualization as each line is associated with a different unique measurement.
 
-<img height ="150" width="200" alt="segformer_result" src="https://github.com/user-attachments/assets/dc45c89f-8ebc-4226-8c9f-2a8f6695612c">
+<img height ="300" width="400" alt="segformer_result" src="https://github.com/user-attachments/assets/dc45c89f-8ebc-4226-8c9f-2a8f6695612c">
 
 # Future Works
 One research direction that has to be looked into is generating synthetic data to come up with a larger dataset to train semantic segmentation models
