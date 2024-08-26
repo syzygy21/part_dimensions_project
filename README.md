@@ -8,9 +8,9 @@ The dataset development for the project consisted of using contour extraction al
 and its specific label was carried out. 
 
 
-<img src="https://github.com/user-attachments/assets/c8f96ef9-d476-41d1-b54b-ebcd739d3cf6" title="example_image_1" width="300" height="400"/>                   <img src="https://github.com/user-attachments/assets/76748c25-7702-47af-9d81-450a5a6f8f0c" title="example_label_1" width="300" height="400"/>
+<img src="https://github.com/user-attachments/assets/c8f96ef9-d476-41d1-b54b-ebcd739d3cf6" title="example_image_1" width="400" height="300"/>                   <img src="https://github.com/user-attachments/assets/76748c25-7702-47af-9d81-450a5a6f8f0c" title="example_label_1" width="400" height="300"/>
 
-<img src="https://github.com/user-attachments/assets/b4861c34-ecf0-4e5d-a2da-50772eb8d5fc" title="example_image_2" width="300" height="400"/>           <img src="https://github.com/user-attachments/assets/c849666a-6f1c-43d8-abf5-fb6bb11f8062" alt="shuffled_label_48" title="example_label_2" width="300" height="400"/>
+<img src="https://github.com/user-attachments/assets/b4861c34-ecf0-4e5d-a2da-50772eb8d5fc" title="example_image_2" width="400" height="300"/>           <img src="https://github.com/user-attachments/assets/c849666a-6f1c-43d8-abf5-fb6bb11f8062" alt="shuffled_label_48" title="example_label_2" width="400" height="300"/>
 
 
 Images to the left are of the pieces and to the right are of the corresponding labels. There were 100 images of the each piece with hundred different orientations. Only the above two pieces were used for fine-tuning the YOLOV8 model.
